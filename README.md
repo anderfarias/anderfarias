@@ -1,7 +1,7 @@
 ## Anderson Farias
  ##### Sou estudante de Analise e Desenvolvimento de Sistemas
  ##### estou estudando HTML, CSS, JAVASCRIPT, NODE.JS.
-<div>
+<div align="center">
   <a href="https://github.com/anderfarias">
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=anderfarias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderfarias&layout=compact&langs_count=7&theme=dracula"/>
